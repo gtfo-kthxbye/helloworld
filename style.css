@@ -2,3 +2,12 @@
 	color: red;
 	
 }
+#stopka {
+	clear: both;
+	width: 100%;
+	height: 80px;
+	margin-top: 50px;
+	text-align: center;
+	color: rgba(0,0,0,0.6);
+	background: #ffffff;
+}
