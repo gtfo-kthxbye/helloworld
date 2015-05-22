@@ -1,4 +1,37 @@
-.fa-imortant{
-	color: red;
-	
+body {
+	background: url('zelki.jpg');
+}
+#box {
+	width: 60%;
+	margin: auto;
+	background: #fff;
+	opacity: 0.5;
+	text-align: center;
+	font-size: 80px;
+	font-color: red;
+}
+#box div {
+	padding: 20px;
+	color: #000;
+}
+#boxxx {
+	width: 60%;
+	margin: auto;
+	background: #fff;
+	opacity: 0.5;
+	text-align: center;
+	font-size: 30px;
+	font-color: red;
+}
+#stopka {
+	clear: both;
+	width: 100%;
+	height: 65px;
+	margin-top: 50px;
+	text-align: center;
+	color: rgba(0,0,0,0.6);
+	background: #ffffff;
+}
+.mail {
+	color: blue;
 }
